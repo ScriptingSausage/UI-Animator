@@ -11,7 +11,7 @@ local UiAnimator = require(00000)
 local MyUi = script.Parent
 
 UiAnimator(MyUi, "Bounce", 0.2, 0.15) --[[
-The last and second last paramter is optional, 
+The last and second last parameter is optional, 
 the second last lets you choose what degree the animation should change the ui by,
 and the last lets you choose the length of the animation.
 ]]
