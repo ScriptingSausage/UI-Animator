@@ -10,5 +10,5 @@ Use example:
 local UiAnimator = require(00000)
 local MyUi = script.Parent
 
-UiAnimator(MyUi, "
+UiAnimator(MyUi, "Bounce", 0.2) -- The last paramter is optional, it lets you choose what degree the animation should change the ui by. Default is 0.5
 ```
